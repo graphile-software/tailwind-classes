@@ -1,6 +1,6 @@
 {
   "name": "@graphile-software/tailwind-classes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node.js package to expand TailwindCSS classes for Graphile",
   "main": "src/index.js",
   "repository": "https://github.com/graphile-software/tailwind-classes.git",

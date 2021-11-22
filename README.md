@@ -5,7 +5,7 @@ Node.js package to expand TailwindCSS classes for Graphile
 # Install with npm
 
 ```bash
-npm install --save tailwind-classes
+npm install --save @graphile-software/tailwind-classes
 ```
 
 # Usage
