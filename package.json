@@ -1,0 +1,28 @@
+{
+  "name": "@graphile-software/tailwind-classes",
+  "version": "1.0.1",
+  "description": "Node.js package to expand TailwindCSS classes for Graphile",
+  "main": "src/index.js",
+  "repository": "https://github.com/graphile-software/tailwind-classes.git",
+  "author": "Graphile Software",
+  "license": "MIT",
+  "scripts": {
+    "publishPackage": "npm publish --access=public"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "tailwindcss"
+  ],
+  "bugs": {
+    "url": "https://github.com/graphile-software/tailwind-classes/issues"
+  },
+  "homepage": "https://github.com/graphile-software/tailwind-classes#readme",
+  "devDependencies": {
+    "tailwindcss": "2.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
